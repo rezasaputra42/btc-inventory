@@ -8,6 +8,6 @@
   Kunci publishable/anon memang aman ditaruh di sini karena data dilindungi aturan keamanan di database.
 */
 window.BTC_CONFIG = {
-  SUPABASE_URL: "ISI_URL_SUPABASE_DI_SINI",
-  SUPABASE_KEY: "ISI_KUNCI_PUBLISHABLE_DI_SINI"
+  SUPABASE_URL: "https://dcpndmutjxbwwmhyvxvb.supabase.co",
+  SUPABASE_KEY: "sb_publishable_x3YU54Y2yfqRfVBVLnD6vQ_haXJVYJJ"
 };
